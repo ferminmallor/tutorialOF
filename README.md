@@ -1,5 +1,5 @@
 # tutorialOF
-Material for OpenFOAM tutorial. 
+Material for OpenFOAM tutorial, to be used at KTH Engineering Mechanics.
 
 ## Table of contents
 
